@@ -87,6 +87,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Resources\exchange.png" />
+    <Content Include="Resources\Screenshot 2022-07-10 174833.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
